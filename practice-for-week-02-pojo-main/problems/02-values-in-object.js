@@ -27,5 +27,3 @@ function valuesInObject(obj) {
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
 module.exports = valuesInObject;
-// Hello Anton
-// Github is tricky
