@@ -19,7 +19,7 @@ function keysInObject(obj) {
     result.push(key);
   }
 
-  console.log(result);
+  return result;
 }
 
 let animals = {dog: 'Wolfie', cat: 'Jet', bison: 'Bilbo'}
